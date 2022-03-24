@@ -1,0 +1,4 @@
+﻿  test.c
+D:\VStudio\C_Study\C-study\02-运算符\ConsoleApplication1\ConsoleApplication1\test.c(5,18): warning C4047: “函数”:“const char *const ”与“size_t”的间接级别不同
+D:\VStudio\C_Study\C-study\02-运算符\ConsoleApplication1\ConsoleApplication1\test.c(5,9): warning C4024: “printf”: 形参和实参 1 的类型不同
+  ConsoleApplication1.vcxproj -> D:\VStudio\C_Study\C-study\02-运算符\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
