@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// while ,break ,continue
 int main()
 {
     int a = 0;
