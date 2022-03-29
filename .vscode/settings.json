@@ -5,6 +5,7 @@
         "*.wxs": "javascript",
         "algorithm": "c",
         "test.C": "cpp",
-        "指针在数组的使用.C": "cpp"
+        "指针在数组的使用.C": "cpp",
+        "指针类型数组的使用.C": "cpp"
     }
 }
