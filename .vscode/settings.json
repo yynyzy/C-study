@@ -4,6 +4,7 @@
         "*.wxss": "css",
         "*.wxs": "javascript",
         "algorithm": "c",
-        "test.C": "cpp"
+        "test.C": "cpp",
+        "指针在数组的使用.C": "cpp"
     }
 }
