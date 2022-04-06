@@ -1,4 +1,12 @@
 #include "stdio.h"
+
+//给结构体换名字来简化结构体名字
+//在全局定义，可以在所有函数中使用
+ typedef struct 
+ {
+     int x;
+ int y;
+ }Point;
 int main(){
     // typedef:用来给数据类型取新的名字
     typedef int MYINT;
@@ -19,8 +27,7 @@ int main(){
     point.y =10;
     printf("%d,%d\n",point.x,point.y);
     
-//自定义结构体名字来简化结构体名字
- typedef struct {int x;int y;}Point;
+
     Point point2;
     point2.x =20;
     point2.y =20;
