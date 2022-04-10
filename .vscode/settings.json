@@ -8,6 +8,8 @@
         "指针在数组的使用.C": "cpp",
         "指针类型数组的使用.C": "cpp",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "string": "c",
+        "iosfwd": "c"
     }
 }
