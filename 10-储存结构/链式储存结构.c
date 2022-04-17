@@ -1,5 +1,6 @@
 /*
-c语言实现:
+链表类型 c语言实现:
+//如何构建节点
  typedef struct LNode
 {
     int data;
