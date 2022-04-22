@@ -5,11 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch Package",
-            "type": "go",
+            "name": "(lldb) 启动",
+            "type": "cppdbg",
             "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}"
+            "program": "${workspaceFolder}/01-字符串定义",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
         }
     ]
 }
