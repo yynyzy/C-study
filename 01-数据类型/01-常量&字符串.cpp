@@ -15,5 +15,14 @@ int main()
     //2.const
     const int month = 12;//const 常量也不能修改
     cout<<"一年一共有"<<month<<endl;
+
+    //字符串（2种风格）
+    //1.C语言风格
+    char s1[] = "Hello World";
+    cout<< s1 <<endl;
+    //2.c++风格
+    String s2 = "hello Yzy";
+    cout<< s2 <<endl;
+
     return 0;
 }
