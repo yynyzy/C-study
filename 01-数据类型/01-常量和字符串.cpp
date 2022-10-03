@@ -21,7 +21,7 @@ int main()
     char s1[] = "Hello World";
     cout<< s1 <<endl;
     //2.c++风格
-    String s2 = "hello Yzy";
+    string s2 = "hello Yzy";
     cout<< s2 <<endl;
 
     return 0;
